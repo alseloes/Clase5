@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Traigo conflictos al verde 
+conservamos ambos
+alseloes modifica archivo verde con texto
+>>>>>>> 7119e3c0a71322b0f3a53901f2ba6e616e5aa971
